@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{Ofmp:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("qhky"),c=n("RMg3");t.default=function(){return l.a.createElement("div",null,l.a.createElement(c.a,null),l.a.createElement(r.a,null,l.a.createElement("meta",{charSet:"utf-8"}),l.a.createElement("title",null,"Work")),l.a.createElement("div",{class:"columns is-centered"},"Work goes in here"))}}}]);
-//# sourceMappingURL=component---src-pages-work-js-2f363b889c8a5e778658.js.map
