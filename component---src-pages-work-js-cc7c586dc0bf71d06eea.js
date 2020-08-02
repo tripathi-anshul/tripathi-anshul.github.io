@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{Ofmp:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=t("qhky"),c=t("RMg3");n.default=function(){return l.a.createElement("div",null,l.a.createElement(c.a,null),l.a.createElement(r.a,null,l.a.createElement("meta",{charSet:"utf-8"}),l.a.createElement("title",null,"Work")),l.a.createElement("div",{class:"columns is-centered"},"Work (TA, Barclays, PennEngOnlineDev) goes in here"))}}}]);
-//# sourceMappingURL=component---src-pages-work-js-cc7c586dc0bf71d06eea.js.map
