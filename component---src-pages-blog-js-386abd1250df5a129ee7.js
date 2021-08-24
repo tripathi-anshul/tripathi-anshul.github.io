@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{vx99:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("qhky"),r=n("RMg3");t.default=function(){return l.a.createElement("div",null,l.a.createElement(r.a,null),l.a.createElement(c.a,null,l.a.createElement("meta",{charSet:"utf-8"}),l.a.createElement("title",null,"Blog")),l.a.createElement("div",{class:"columns is-centered"},"Coming Soon"))}}}]);
-//# sourceMappingURL=component---src-pages-blog-js-386abd1250df5a129ee7.js.map
